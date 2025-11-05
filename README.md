@@ -1,4 +1,5 @@
--👋 Hi, I’m Toby. I'm a passionate full-stack web developer with experience in a bunch of frameworks but mostly work with Java Springboot, Angular and SpacetimeDB for the most part.
+
+- 👋 Hi, I’m Toby. I'm a passionate full-stack web developer with experience in a bunch of frameworks but mostly work with Java Springboot, Angular and SpacetimeDB for the most part.
 - 👀 I’m interested in ... building scalable and efficient applications that solve real-world problems.
 - 🌱 I’m currently learning ... Go and SpacetimeDB to expand my knowledge with another programming language and new paradigms.
 - 💞️ I’m looking to collaborate on ... projects where I can contribute my skills and learn from others. Hit me up!
