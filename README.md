@@ -3,4 +3,4 @@
 - 👀 I’m interested in ... building scalable and efficient applications that solve real-world problems.
 - 🌱 I’m currently learning ... Go and SpacetimeDB to expand my knowledge with another programming language and new paradigms.
 - 💞️ I’m looking to collaborate on ... projects where I can contribute my skills and learn from others. Hit me up!
-- 📫 How to reach me ... -> ta-software-solutions.de/ or linkedin.com/in/tobias-andraschko/
+- 📫 How to reach me ... -> https://ta-software-solutions.de/ or https://www.linkedin.com/in/tobias-andraschko/
